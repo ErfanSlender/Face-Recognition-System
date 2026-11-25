@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+#.pyc
+
+# Virtual Environment
+venv/
+faceenv/
+.venv/
+
+# Database
+*.db
+*.sqlite3
+
+# Personal Images
+known/*
+!known/.gitkeep
+
+# Python packages
+*.whl
+
+# Jypyter
+.ipynb_checkpoints/
